@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Golang, AWS**
 
-💬 Ask me about **Node.js, React, Java... or anything**
+💬 Ask me about **anything :)**
 
  </div>
  
